@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prices">
+        <item name="CheeseSandwich">50</item>
+        <item name="VegSandwich">45</item>
+        <item name="FruitSalad">40</item>
+        <item name="VegPizza">60</item>
+        <item name="CheesePizza">75</item>
+        <item name="VegBurger">30</item>
+        <item name="CheeseBurger">40</item>
+        <item name="Coke">30</item>
+        <item name="Tea">20</item>
+        <item name="Frappe">30</item>
+    </string-array>
+</resources>
