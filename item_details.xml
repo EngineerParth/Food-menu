@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <array name="items">
+       <item name="CheeseSandwich">Cheese Sandwich</item>
+       <item name="VegSandwich">Veg Sandwich</item>
+       <item name="FruitSalad">Fruit Salad</item>
+       <item name="VegPizza">Veg Pizza</item>
+       <item name="CheesePizza">Cheese Pizza</item>
+       <item name="VegBurger">Veg Burger</item>
+       <item name="CheeseBurger">Cheese Burger</item>
+       <item name="Coke">Coke</item>
+       <item name="Tea">Tea</item>
+       <item name="Frappe">Frappe</item>
+
+   </array>
+
+</resources>
